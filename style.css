@@ -711,8 +711,8 @@ body.active .wrapper .section{
 
 
 .packages{
-    margin: 40px;
-    width: 300px;
+    margin: 40px 120px;
+    width: 600px;
     padding-bottom: 1.5em;
     height: 100%;
     background-color: #1e2321;
@@ -932,7 +932,7 @@ input:checked + .slider:before{
 .mesage-candidate{
     background: #f7d7b9;
     padding: 40px;
-    max-width: 100%;
+    width: 100%;
     margin:0px 0px 50px 0px; 
     border-radius:20% 0% 20% 0%;
 }
@@ -3037,6 +3037,7 @@ img{
     width: 80%;
     border-radius: 0 7px 10px 7px;
     background-color:wheat;
+    margin: 0px 0px 40px 0px;
 }
 
 .product-text h1{
@@ -3060,7 +3061,7 @@ img{
     padding:0px;
     width: 728px;
     height: 90px;
-    margin: 80px 0px;
+    margin: 50px 0px 80px 0px;
     justify-content: center;
 }   
 
@@ -4133,7 +4134,7 @@ span{
     background-color: whitesmoke;
     text-align: center;
     position: relative;
-    margin:250px;
+    margin:60px auto;
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
@@ -25230,7 +25231,7 @@ img{
 
 .product-info{
     float: left;
-    width: 115%;
+    width: 30%;
     border-radius: 0 7px 10px 7px;
     background-color:wheat;
     margin: 40px 0px;
@@ -25257,7 +25258,7 @@ img{
     padding:0px;
     width: 728px;
     height: 90px;
-    margin: 80px 0px;
+    margin: 80px 80px;
     justify-content: center;
 }   
 
@@ -30600,7 +30601,7 @@ span{
     background-color: whitesmoke;
     text-align: center;
     position: relative;
-    margin:20px 50px 50px 80px;
+    margin:60px auto;
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
