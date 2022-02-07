@@ -5913,8 +5913,9 @@ input:checked + .slider:before{
 }
 
 .product-price-btn ul{
+    width: 100%;
     margin: 20px 0px 0px 0px;
-    padding: 10px 20px 0px 20px;
+    padding: 5px;
     list-style: none;
     justify-content: center;
 }   
@@ -8533,8 +8534,9 @@ input:checked + .slider:before{
 }
 
 .product-price-btn ul{
+    width: 100%;
     margin: 20px 0px 0px 0px;
-    padding: 10px 20px 0px 20px;
+    padding: 5px;
     list-style: none;
     justify-content: center;
 }   
@@ -11220,8 +11222,9 @@ input:checked + .slider:before{
 }
 
 .product-price-btn ul{
+    width: 100%;
     margin: 20px 0px 0px 0px;
-    padding: 10px 20px 0px 20px;
+    padding: 10px;
     list-style: none;
     justify-content: center;
 }   
@@ -13855,8 +13858,9 @@ input:checked + .slider:before{
 }
 
 .product-price-btn ul{
+    width: 100%;
     margin: 20px 0px 0px 0px;
-    padding: 10px 20px 20px 20px;
+    padding: 10px;
     list-style: none;
     justify-content: center;
 }   
@@ -16057,7 +16061,7 @@ input:checked + .slider:before{
 
 
 
-*{
+*{  
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -16470,8 +16474,9 @@ input:checked + .slider:before{
 }
 
 .product-price-btn ul{
+    width: 100%;
     margin: 20px 0px 0px 0px;
-    padding: 20px;
+    padding: 5px;
     list-style: none;
     justify-content: center;
 }   
@@ -18992,10 +18997,10 @@ input:checked + .slider:before{
 
 .product-info{
     float: left;
-    width: 30%;
+    width: 36%;
     border-radius: 0 7px 10px 7px;
     background-color:wheat;
-    margin: 0px 50px 50px 50px;
+    margin: 0px 60px 50px 60px;
 }
 
 .product-text h1{
@@ -19044,8 +19049,9 @@ input:checked + .slider:before{
 }
 
 .product-price-btn ul{
+    width: 100%;
     margin: 0px 0px 0px 0px;
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     justify-content: center;
 }   
